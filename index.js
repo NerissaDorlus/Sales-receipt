@@ -1,3 +1,5 @@
+//project created on 4/22/2022
+
 const subtotal = 19.75;
 const taxRate = 0.07;
 
